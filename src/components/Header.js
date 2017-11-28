@@ -1,4 +1,5 @@
 // import a library to help create a component
+
 // This is a funcational component
 import React from 'react';
 import { Text, View } from 'react-native';
